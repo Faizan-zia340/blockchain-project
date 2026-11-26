@@ -1,0 +1,13 @@
+# Secrets — kabhi commit nahi karna
+.env
+.env.local
+*.env
+
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Node
+node_modules/
