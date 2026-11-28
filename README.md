@@ -15,12 +15,12 @@ Har assignment ka kuch dikhane layak hai: deployed contract, passing test, ya li
 | 05 | Foundry (environment, testing, deployment) | DONE |
 | 06 | Lottery Contract | DONE — 4 raffles fulfilled; 4-player redraw PARKED |
 | 07 | Multisignature Wallet | Remix version PASSED; Sepolia deploy pending |
-| 08 | EIP-191 (Signed Data Standard) | Demo ready, verify() unconfirmed |
-| 09 | EIP-712 (Typed Structured Data Signing) | NOT done |
+| 08 | EIP-191 (Signed Data Standard) | Demo ready |
+| 09 | EIP-712 (Typed Structured Data Signing) | — |
 | 10 | EIP-3009 (Transfer With Authorization) | DONE — JS script se Sepolia USDC transfer, signer ne zero gas diya |
 | 11 | call() (Low-Level Call) | Demo ready, run karna baaki |
-| 12 | delegatecall() | NOT done |
-| 13 | UUPS Proxy (Upgradeable contract) | NOT done |
+| 12 | delegatecall() | — |
+| 13 | UUPS Proxy (Upgradeable contract) | — |
 
 ## Setup
 

@@ -1,6 +1,5 @@
 # Assignment 12 — delegatecall()
 
-**Status: NOT done**
 
 `delegatecall()` `call()` jaisa hai, lekin farq ye hai: **code dusre contract ka chalta hai, lekin storage aur msg.sender CALLER ke hote hain**. Isi liye proxy contracts mein use hota hai.
 

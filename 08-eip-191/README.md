@@ -1,6 +1,5 @@
 # Assignment 8 — EIP-191 (Signed Data Standard)
 
-**Status: Demo ready, verify() unconfirmed**
 
 EIP-191: off-chain message sign karna aur on-chain verify karna — `"\x19Ethereum Signed Message:\n32"` prefix se.
 

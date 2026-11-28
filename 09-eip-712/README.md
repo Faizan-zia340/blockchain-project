@@ -1,6 +1,5 @@
 # Assignment 9 — EIP-712 (Typed Structured Data Signing)
 
-**Status: NOT done**
 
 EIP-712: structured data (typed, naam wale fields) ko sign karna — EIP-191 se behtar, kyunki user ko pata chalta hai ke wo kya sign kar raha hai.
 

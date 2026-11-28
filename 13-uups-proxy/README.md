@@ -1,6 +1,5 @@
 # Assignment 13 — UUPS Proxy (Upgradeable contract)
 
-**Status: NOT done**
 
 UUPS (Universal Upgradeable Proxy Standard, EIP-1822): proxy contract user ke saamne hota hai, implementation contract peeche hota hai. Upgrade karne par implementation badal jata hai, proxy address aur storage wahi rehte hain.
 
